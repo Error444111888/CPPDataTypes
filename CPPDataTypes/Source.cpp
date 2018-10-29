@@ -1,4 +1,4 @@
-// Data Types by Ray
+// C++ Data Types by Ray
 
 
 #include <iostream>
